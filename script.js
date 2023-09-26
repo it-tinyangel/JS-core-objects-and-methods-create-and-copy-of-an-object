@@ -8,7 +8,6 @@ let person = { // create an object
 
 let newPerson = Object.assign({}, person); // create a copy of the object
 
-// change the properties
 newPerson.firstName = "Petro";
 newPerson.secondName = "Petriv";
 
